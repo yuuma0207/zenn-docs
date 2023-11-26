@@ -1,0 +1,19 @@
+{
+  "name": "zenn-docs",
+  "description": "https://zenn.dev/cumet04",
+  "author": "cumet04",
+  "license": "MIT",
+  "scripts": {
+    "build:preview": "node preview.js"
+  },
+  "dependencies": {
+    "zenn-content-css": "^0.1.134"
+  },
+  "devDependencies": {
+    "@types/node": "^18.0.0",
+    "gray-matter": "^4.0.3",
+    "prettier": "^2.8.2",
+    "zenn-cli": "^0.1.149",
+    "zenn-markdown-html": "^0.1.134"
+  }
+}
